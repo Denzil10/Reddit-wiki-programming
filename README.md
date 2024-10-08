@@ -15,6 +15,7 @@ Many people avoid learning Python because the availibility of libraries make it 
 - Python
 - C++
 - Java
+- Javascript
 
 
 You can look up the pros and cons of learning each with a quick google search of "Language 1" Vs "Language 2" 
